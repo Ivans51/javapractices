@@ -8,6 +8,5 @@
 out
 gen
 .gitignore
-.idea/inspectionProfiles/
 .idea/workspace.xml
 /.idea/
