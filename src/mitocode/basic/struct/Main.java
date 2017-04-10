@@ -3,7 +3,7 @@ package mitocode.basic.struct;
 /**
  * Created by Ivans on 09/04/2017.
  */
-public class MainStruct {
+public class Main {
 
     public static void main(String[] args) {
 
@@ -12,6 +12,7 @@ public class MainStruct {
         StructWhile structWhile = new StructWhile();
         StructFor structFor = new StructFor();
         StructDoWhile structDoWhile = new StructDoWhile();
+        StructSwitch structSwitch = new StructSwitch();
 
         // Message in console
         System.out.println("Selección Simple " + structSelection.selectionSingle(5, 10));
@@ -19,7 +20,8 @@ public class MainStruct {
 
         System.out.println("El valor es: " + structWhile.estructuraWhile());
 
-        System.out.println("El valor es: " + structDoWhile.EstructuraDoWhile());
+        System.out.println("El valor es: " + structDoWhile.estructuraDoWhile());
+        System.out.println("El valor es: " + structSwitch.esctructuraSwitch());
 
     }
 }
