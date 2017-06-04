@@ -1,11 +1,10 @@
 package mitocode.basic.arrays;
 
-import java.util.Scanner;
-
 /**
  * Created by Ivans on 09/04/2017.
  */
 public class ArraysParallel {
+    public int numberList;
 
     /*public String arraysParalelos() {
 
