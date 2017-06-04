@@ -7,15 +7,14 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // Instance new
+        // Instance
         StructSelection structSelection = new StructSelection();
         StructWhile structWhile = new StructWhile();
         StructFor structFor = new StructFor();
         StructDoWhile structDoWhile = new StructDoWhile();
         StructSwitch structSwitch = new StructSwitch();
 
-        // Message in console new Changes 2
-        // Commmit local 1
+        // Message in console hola new
         System.out.println("Selección Simple " + structSelection.selectionSingle(5, 10));
         System.out.println("Operador ternario" + structSelection.operadorTernario(10, 5));
 
