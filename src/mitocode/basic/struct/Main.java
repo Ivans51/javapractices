@@ -12,9 +12,9 @@ public class Main {
         StructWhile structWhile = new StructWhile();
         StructFor structFor = new StructFor();
         StructDoWhile structDoWhile = new StructDoWhile();
-        StructSwitch structSwitch = new StructSwitch();
+        // StructSwitch structSwitch = new StructSwitch();
 
-        // Message in console
+        // Message in console hola new
         System.out.println("Selección Simple " + structSelection.selectionSingle(5, 10));
         System.out.println("Operador ternario" + structSelection.operadorTernario(10, 5));
 
