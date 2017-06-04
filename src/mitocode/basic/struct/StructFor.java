@@ -1,17 +1,11 @@
 package mitocode.basic.struct;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * Created by Ivans on 09/04/2017.
  */
 public class StructFor {
 
     String[] array = {"Facebook", "Youtube", "Twitter"};
-    public String estructuraForI = "Ivans";
-
-    List arrayTwo = new ArrayList();
 
     public void forMejorado() {
         for (String s : array) {
