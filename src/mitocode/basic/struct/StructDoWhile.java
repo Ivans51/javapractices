@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 public class StructDoWhile {
 
-    public String estructuraDoWhile() {
+    public String EstructuraDoWhile() {
 
         String opcion;
 
