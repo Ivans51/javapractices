@@ -17,6 +17,7 @@ public class ExpressionLambdas implements Operation {
 
     public double tryOperation(){
 
+        // Changes four
         Operation operation = (x, y) -> {
             n3 = x + y;
             return n3;
