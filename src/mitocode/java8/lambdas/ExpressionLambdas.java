@@ -27,6 +27,7 @@ public class ExpressionLambdas implements Operation {
 
     public static void main(String[] args) {
         ExpressionLambdas ep = new ExpressionLambdas();
+        // Changes two
         System.out.println(ep.tryOperation());
         // changes one
     }
