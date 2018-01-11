@@ -5,7 +5,7 @@ package mitocode.java8.lambdas;
  */
 public class ExpressionLambdas implements Operation {
 
-    double n3;
+    double n3; // Hello
 
     Operation op = new Operation() {
         @Override
