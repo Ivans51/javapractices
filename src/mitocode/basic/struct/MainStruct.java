@@ -12,11 +12,8 @@ public class MainStruct {
         StructWhile structWhile = new StructWhile();
         StructFor structFor = new StructFor();
         StructDoWhile structDoWhile = new StructDoWhile();
-<<<<<<< Updated upstream:src/mitocode/basic/struct/MainStruct.java
-=======
         // StructSwitch structSwitch = new StructSwitch();
         StructSwitch structSwitch = new StructSwitch();
->>>>>>> Stashed changes:src/mitocode/basic/struct/Main.java
 
         // Message in console hola new
         System.out.println("Selección Simple " + structSelection.selectionSingle(5, 10));
